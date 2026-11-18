@@ -35,7 +35,7 @@ Más información y los manuales también en [masoft.es](https://masoft.es/desca
 | | |
 |---|---|
 | Sistema | Windows 10 u 11 (64 bits) |
-| Instalación | Instalador para tu usuario, sin permisos de administrador, o ejecutable único que se copia y se abre; Python va dentro. |
+| Instalación | Instalador para tu usuario, sin permisos de administrador, o ejecutable único que se copia y se abre; no hace falta instalar nada más. |
 | Pantalla | 1080 × 680 como mínimo |
 | Con el móvil | PC y móvil en la misma red y el puerto 47850 (TCP y UDP) permitido en el cortafuegos para redes privadas. |
 
